@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElissaDesign
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Next.Js
+- 🌱 I’m currently learning Three.Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, You can reach me via Instagram, Twitter, LinkedIn as Elissadesign 
 😂 
