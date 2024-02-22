@@ -1,4 +1,4 @@
-![`👋`](giphy.gif)
+![`👋`]
 
 ## 👋 Hi, I’m `ElissaDesign`.
 
