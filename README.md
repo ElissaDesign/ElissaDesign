@@ -1,5 +1,3 @@
-![`👋`]
-
 ## 👋 Hi, I’m `ElissaDesign`.
 
 Full Stack Efficient Developer with excellent skills, experienced with a variety of programming languages and tools, and skilled in both back-end and front-end development. Feel free to reach out to me to test it.
